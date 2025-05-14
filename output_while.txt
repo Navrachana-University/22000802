@@ -1,0 +1,12 @@
+// declare int x
+t0 = 1;
+x = t0;
+t1 = x;
+t2 = 5;
+t3 = t1 < t2;
+print x;
+t4 = x;
+t5 = 1;
+t6 = t4 + t5;
+x = t6;
+// while block

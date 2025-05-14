@@ -1,0 +1,18 @@
+// declare int a
+// declare int b
+// declare int sum
+// declare int product
+t0 = 3;
+a = t0;
+t1 = 4;
+b = t1;
+t2 = a;
+t3 = b;
+t4 = t2 + t3;
+sum = t4;
+t5 = a;
+t6 = b;
+t7 = t5 * t6;
+product = t7;
+print sum;
+print product;

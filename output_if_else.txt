@@ -1,0 +1,12 @@
+// declare int a
+// declare int b
+t0 = 15;
+a = t0;
+t1 = 10;
+b = t1;
+t2 = a;
+t3 = b;
+t4 = t2 < t3;
+print a;
+print b;
+// if-else block

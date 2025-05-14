@@ -1,0 +1,12 @@
+int a;
+int b;
+int sum;
+int product;
+
+a = 3;
+b = 4;
+sum = a + b;
+product = a * b;
+
+print sum;
+print product;
